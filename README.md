@@ -17,28 +17,17 @@ WaveDisruptor is an experimental Arduino-based project that demonstrates frequen
   <table>
     <tr>
       <td align="center">
-        <img src="project_overview.jpg" width="400" alt="Project Overview"/>
+        <img src="https://cdn.discordapp.com/attachments/1047503812111372424/1299580289219166258/20241026_065211.jpg?ex=671db7f5&is=671c6675&hm=459e3e531702ddac0e6b98f57d92fb2ecfb8d5df24970d7261402e20f8424526&" width="400" alt="Project Overview"/>
         <br/>
-        <em>Complete Hardware Setup</em>
       </td>
       <td align="center">
-        <img src="circuit_diagram.jpg" width="400" alt="Circuit Diagram"/>
+        <img src="https://cdn.discordapp.com/attachments/1047503812111372424/1299580288560529408/20241026_065319.jpg?ex=671db7f5&is=671c6675&hm=acf5344b1136dda1f0cc3b15c57f96456b6b98c25f5636b6977cb5c95459cc4f&" width="400" alt="Circuit Diagram"/>
         <br/>
-        <em>Detailed Wiring Diagram</em>
       </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="hardware_setup.jpg" width="400" alt="Hardware Setup"/>
-        <br/>
-        <em>Component Assembly Guide</em>
-      </td>
-      <td align="center">
-        <img src="operation_demo.jpg" width="400" alt="Operation Demo"/>
-        <br/>
-        <em>Device in Operation</em>
-      </td>
-    </tr>
+<td align="center">
+  <video src="https://github.com/user-attachments/assets/f1e93f60-118c-45f6-b586-485a1df44353" width="400" controls muted>
+  </video>
+  <br/>
   </table>
 </div>
 
