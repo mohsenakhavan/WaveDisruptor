@@ -25,7 +25,7 @@ WaveDisruptor is an experimental Arduino-based project that demonstrates frequen
         <br/>
       </td>
 <td align="center">
-  <video src="https://github.com/user-attachments/assets/f1e93f60-118c-45f6-b586-485a1df44353" width="400" controls muted>
+  <video src="https://github.com/user-attachments/assets/639d163a-4485-4017-9d8f-2712377eac17" width="400" controls muted>
   </video>
   <br/>
   </table>
